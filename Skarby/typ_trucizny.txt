@@ -1,0 +1,6 @@
+01-20; A-natychmiastowa (działa po 1-10sg)
+21-40; B-szybko działająca (działa po 1r.)
+41-60; C-normalnie działająca (działa po 1-10r.)
+61-80; D-powolna (działa po 10-1000r.)
+81-90; E-długoterminowa (działa po 1-10 dniach.)
+91-100; inne działanie

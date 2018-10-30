@@ -1,0 +1,8 @@
+1-75; {{ bronie.txt }}
+76-85; {{ zbroje.txt }}
+86-95; {{ tarcze.txt }}
+96; {{ skladniki_zbroi.txt }}
+97; zbroje konskie
+98; siodla
+99; rydwan
+100; Specjalne [np.pochwy, proporce, chorągwie]

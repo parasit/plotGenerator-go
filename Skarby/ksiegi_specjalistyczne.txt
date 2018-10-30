@@ -1,0 +1,17 @@
+01-35; o zawodach (pozwala o b. +10% wykonywać dany zawód efektowniej)
+36-38; umagicznień (uczy umiejętności pozwalających na stałe umagiczniać bez zakładania blokady PM, aczkolwiek np. wilgoć samoczynnie może wcześniej rozmagicznić przedmiot, ponadto pozwala odzyskać już po umagicznieniu ten potencjał, który jest nadmiarowy, a więc ilość ponad 1 punkt PM/kg umagicznianej materii).
+39-40; o kupiectwie (pozwala o b. 10% efektywniej wykonywać wszelkie związane z tym czynności)
+41-43; o pentagramach (pozwala o b. 10% wykonywać wszelkie związane z nimi czynności efektywniej)
+44-45; o znakach runicznych (pozwala o b. 10% wykonywać wszelkie związane z nimi czynności efektywniej)
+46-50; martwiaków (pozwala o b. 10% wykonywać efektowniej wszelkie związane z nimi czynności np. ich robienie, pozyskiwanie, czy odwracanie, przy czym dotyczy też to odporności przed ich przemianami i niektórymi zdolnościami).
+51-54; magicznych potworów (pozwala o b. 10% wykonywać efektowniej wszelkie związane z nimi czynności np. ich robienie, obłaskawianie, czy wyszukiwanie słabych stron, przy czym dotyczy też to odporności przed ich przemianami i niektórymi zdolnościami).
+55; funkcyjna (zawarte tu są tajniki wiedzy odnośnie 1 funkcji pozwalają osiągnąć lepszą efektywność w używaniu wszelkich zdolności tej funkcji o b. +5%, przy czym ewentualnie wlicza się to też do antyodporności wynikających z poziomu np. wróg broni się przed czarem o b. 5% gorzej oraz dotyczy się to też bronieniu się przed nimi itp, zależnie od MG)
+56-60; o wróżbiarstwie (pozwala wszelkie wróżby i przepowiednie czynić na okres dwukrotnie dłuższy i o b. 10% efektywniej)
+61-75; o jednej broni (zawarte tu tajniki posługiwania się daną bronią pozwalają zwiększyć biegłość w tej broni o b.+10%).
+76-78; o jednej zbroi (uczy jak dokładnie wyrabiać dany element - składnik zbroi).
+79-81; o ziołach (zawarte tu tajniki uczą uprawiać, przetwarzać i wytwarzać wywary z danych 1-5 ziół).
+82-84; silnych mikstur (zawarte tu tajniki dają wiedzę, o robieniu z 5 zwykłych ekstraktów jednego, za to o efekcie trwania-działania na organizm średnio 2-20godzin +1godzina/p. np. Al.
+85; smoczej żywotności (zawarta w nie wiedza umożliwia z każdych 10 litrów krwi smoczej robienia 1-10 ekstraktów, o ile ma się odpowiednie zdolności alchemika; taka mikstura z ekstraktu krwi smoczej na okres 1 dnia po wypiciu i nasmarowaniu - zużywa się więc po dwie porcje, pozwala osiągnąć żywotność równą smoczej, z którego pochodziła, jednakże po tym okresie postać na 1-10dni jest kompletnie wyczerpana.
+86-95; pułapek (wiedza w niej zawarta daje b. 10%, przy jakimkolwiek zakładaniu, rozbrajaniu i omijaniu pułapek, itp)
+96-99; inne (np. robienia amuletów, alchemii, nekromancji, magii żywiołów, iluzji itp).
+100; księgi prawie niespotykane

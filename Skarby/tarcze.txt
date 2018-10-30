@@ -1,0 +1,4 @@
+1-15; pawęże
+16-50; tarcze rycerskie
+51-85; tarcze typowe metalowe
+86-100; tarcze drewniane

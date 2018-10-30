@@ -1,0 +1,3 @@
+01-75; Pergaminy - Zawarta w nich wiedza daje 10% szansy na poznaniu jakiejś ważniejszej tajemnicy, np. umowy, drogi do skarbu (nie wiadomo oczywiście, czy jest to prawdziwe, i czy jeszcze jest aktualne).
+76-95; Pergaminy czyste Możliwe ewentualnie do zapisania.
+96-100; Pergaminy - Zawarte w nich wskazówki daje 20% szansy na poznaniu jakiejś ważniejszej tajemnicy, typu plany labiryntu, zamku, drogi do skarbca lub skarbu itp (niewiadomo oczywiście, czy jest to prawdziwe, i czy jeszcze jest).

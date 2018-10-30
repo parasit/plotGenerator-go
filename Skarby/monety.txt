@@ -1,0 +1,6 @@
+1; mieszek z {{ 1d100 }} monetami mitrylowymi (1 sztuka mitrylu =100sztuk złota);
+2-5; mieszek z {{ 1d100 }} monetami platynowymi (ew. patrz niżej) (1 sztuka platyny =10sztuk złota);
+6-25; mieszek z {{ 1d100 }} monetami złotymi (1 sztuka złota jest podstawową monetą);
+26-99; mieszek z {{ 1d100 }} monetami srebrnymi (100 sztuk srebra =1 sztuka złota);
+100; mieszek z {{ 1d100 }} monetami podrobionymi (rzuć 2 razy, a będziesz wiedział co na co jest podrabiane; uwaga: jeżeli wylosowałeś to samo, to znaczy, że waga kruszcu w monetach jest
+za mała)

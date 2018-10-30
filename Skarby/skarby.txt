@@ -1,0 +1,6 @@
+1; {{ skarbA.txt }}
+2; {{ skarbB.txt }}
+3; {{ skarbC.txt }}
+4; {{ skarbD.txt }}
+5; {{ skarbE.txt }}
+6; {{ skarbF.txt }}

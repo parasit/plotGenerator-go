@@ -1,0 +1,2 @@
+1-75; {{ bizuteria.txt }}
+76-100; {{ szaty.txt }}

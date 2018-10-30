@@ -1,0 +1,17 @@
+01-05; historyczne (10%, że Mądrość wzrośnie o 1)
+06-10; pamiętniki (10%, że natrafi się na wiadomość, o jakimś skarbie)
+11-15; o sztuce (10%, że wyczucie piękna, czyli Inteligencja wzrośnie o 1, a w przypadku Ku., Zł. i Il. też Mądrość o 1).
+16-20; przygodowe (10%, że natrafi się na wiadomość, o jakiejś tajemnicy)
+21-25; miłosne (10%, że nauczy się odpowiedniego np. zachowania, tak że PR wzrośnie o 1).
+26-30; o wojnach (10%, że Mądrość wzrośnie o 1, a w przypadku W. i R. nawet o 2).
+31-35; o broniach (10%, że biegłość w posiadanych broniach wzrosną o 1)
+36-40; o uzbrojeniu (10%, że wiedza np. o zbrojach wzrośnie, co efektywnie może zwiększyć obronę ze zbroi o b.+1%).
+41-45; o morzu (10%, że Mądrość wzrośnie o 1)
+46-50; o zwierzętach (10%, że Mądrość wzrośnie o 1 i np. poznało się tryb życia danego zwierzęcia- w wypadku D. i Ł. wzrasta Mądrość o 2).
+51-55; o rolnictwie (10%, że nauczyło się uprawiać daną roślinę, np. ziele).
+56-60; o religiach (10%, że Mądrość wzrośnie o 1, ewentualnie też i Wiara jeżeli księga dotyczy własnego Bóstwa wzrośnie o 1)
+61-65; o magii (10%, że UM wzrosną o 1, a w przypadku M. i K. też i IQ o 1).
+66-70; o potworach (10%, że Mądrość wzrośnie o 1 i np. poznało się tryb życia danego monstra - w wypadku D., Ł. i P. wzrasta Mądrość o 2).
+71-95; inne księgi ogólne (zależnie od MG np. o muzyce, bitwach, podziemiach, budowlach, rasach itd).
+96-99; słownik języka... (pozwala tłumaczyć pisane zwroty języka danej posługującej się pismem rasy na język wspólny, ewentualnie inny; wylosuj rasy i języki, których ta księga dotyczy).
+100; {{ ksiegi_specjalistyczne.txt }}

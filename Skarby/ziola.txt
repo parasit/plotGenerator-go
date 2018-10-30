@@ -1,0 +1,28 @@
+1; dar sor (krwawe ziele) - powoduje krwotok wewnętrzny po wypiciu (na każde 25ml 10procentowego roztworu) zadając 1-100 ran ew. połowę skondensowane ma ostry, gryzący zapach) spotykane w gęstych lasach.
+2; stagar sor (cmentarne ziele) - powoduje na 1-10 dni ostrą gorączkę i wyczerpanie, ew. zawroty głowy (o b.-10% zmniejsza Tr/OB/UM/itd.) spotykane na wapiennych wzgórzach.
+3; roscor sor (rozszczepione ziele) - zwiększa krzepliwość i zatrzymuje krwawienie (też i agonię, ale dopiero po 1-2 r.) polany leśne.
+4; sor grin (ziele goryczy) - uspakaja (ew. dodatkowy procentowy rzut na reakcję) i powoduje melancholijny smutek spotykane w większości lasów.
+5; mirag sor (piramidowe ziele) - silnie palący lek jednorazowo pozwalający na dodatkową próbę (procentowy rzut) wyjścia z paraliżu wapienne, nasłonecznione miejsca.
+6; co-kars sor (mgliste ziele) - wypicie lub wdychanie dymu ze spalanego ziela powoduje zapadanie w normalny sen, ew. spowalnia reakcje (społawia SZ) występuje na bagnach i torfowiskach.
+7; pant-lant sor (długolistna trawa) - palenie wysuszonych pozostałości daje podobny smak i efekt jak w przypadku tytoniu górskie doliny.
+8; orcs sor (orkowe ziele) - lekko narkotyczne (1%/d. użycia) ziele, 2-krotnie zwiększające wytrzymałość na zmęczenie, a w wypadku uzależnienia powoduje ociężałość umysłową (zmniejszając o 2-20IQ) lasy.
+9; born sor (niedźwiedzie ziele) - wywar jest tak bardzo oleisty, że wysmarowanie nim gołego ciała średnio o b. 50% + 2-20% uniemożliwia pochwycenie (tzn. zwiększa obronę np. przy zapasach, duszeniu itp.) lasy.
+10; sar sor (wężowe ziele)'Tekst tłustą czcionką - wywar po dwukrotnej ekstrakcji tworzy gestą białą ciecz, której wypicie może zabić natychmiast postać o masie mniejszej niż 50 kg/każdy kolejny wywar (min. 50), ew. przez 1-5 r. wywołująca zwalający z nóg ból bagienne lasy.
+11; pont-gur sor (nadbrzeżne ziele) - wywar powoduje lekki ból, który przez najbliższe 1-10 godzin uniemożliwia koncentrację (np. rzucanie czarów) i sen skaliste brzegi mórz.
+12; amun-sor (barwiące ziele) - jest w stanie zabezpieczać dowolną skórę zwierzęcą przed gniciem i nasiąknięciem wodą rośnie na bagnach.
+13; sands sor (piaskowe ziele) - stężony wywar z niego (ew. długotrwałe żucie) daje oleistą ciecz, która w zetknięciu z krwią powoduje po 1-5 r. paraliż, ew. nic spotykane na piaskowych wydmach.
+14; adar-sor (czerwone ziele) - zagęszczony wywar z tego zioła z dodatkiem sadzy służy do trwałego barwienia na czerwono (np. też jako atrament) rośnie na bagnach .
+15; tornt sor (górskie ziele) - wywar z niego to silny środek rozgrzewający ciało: na 1-10 godzin zależnie od temperatury otoczenia chroni od zimna, wtarty w ciało może znieść paraliż fizyczny (umożliwia jednorazowy drugi rzut na odporność nr.6) lub wypity może znieść paraliż umysłowy (tak samo, tzn jednorazowo umożliwiając rzut na odporność nr.4) pośrednio wywołuje silne pragnienie wysokie góry na granicy śniegu.
+16; bas sor lotos (kwiat lotosu) - silny usypiający (na 2-20 godzin), ew. otumaniający na 2-20r stężony działa zabójczo, ew. wywołuje letarg (na 2-20 dni) występuje w podmokłych ciepłolubnych puszczach.
+17; lant-gur-tu tornt sor (długolistne górskie ziele) - umiejętnie zrobiony wywar leczy (nieumiejętnie zadaje) 10-100 ran zacienione górskie kotliny.
+18; tmar wart sor (jagody wilczego ziela) - pozwala dwukrotnie zwiększyć zdrowienie w każdym dniu podawania gęste, wilgotne lasy.
+19; tmar sotin sor (jagody śpiewającego ziela) - powodują halucynacje (na okres 1-10 godzin) całkowicie wyłączające rzeczywistość, ew. wprawia w dobry humor występuje na polanach w gęstych wilgotnych lasach.
+20; tmar mar-warn (jagody krzewu róży) - słodki, lekko alkoholowy napój lasy.
+21; rog nute tarnt (kora krzykliwego drzewa) - pozwala jednorazowo na okres 1-10 godzin zwiększyć żywotność o 10/każdy kolejny robiony z niego wywar ciepłolubne wilgotne lasy.
+22; bur coto sor (bagienne pchle ziele) - bardzo trudne do zdobycia ziele, którego wywar daje efekt uzdrowienia (po 1-10r) wody bagien.
+23; coto sor (pchle ziele) - długotrwałe używanie powoduje czasową ślepotę (10 dni/podana porcje, przy czym działa po 1-10 dniach) pola.
+24; korantor sor (czosnkowe ziele) - często używany daje 20% odporności na większość chorób zakaźnych, a także daje b. 25% nietykalności w przypadku typowych wampirów krzewiaste niziny.
+25; wart-dar sor (wilkołacze ziele) - od razu zażyte (działa do 1-100 rund) daje 85% szansy uniknięcia stania się lykantropem po pokąsaniu (itp.) przez niego wywar z niego jest śmiertelną (natychmiastową) trucizną na wszelkie lycantropy lasy.
+26; sor Nian (ziele Niana) - wywołuje silną, ew. lekką biegunkę (przez 1-100 godzin), co średnio o b. 10-50 (np. %) utrudnia wszelkie czynności gęste wilgotne lasy.
+27; bas-dar sor (miłosne ziele) - wywołuje silne podniecenie (ew. procentowy rzut na dwukrotną PR płci przeciwnej), ew. wzmaga apetyt wilgotne puszcze.
+28; semirs sor (ziele rozbitków) - oleisty wywar odpowiada kalorycznie normalnej porcji obiadowej glon z terenów pływów morskich.

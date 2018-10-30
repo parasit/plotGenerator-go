@@ -1,0 +1,10 @@
+1-25; flakonik lub dzbanuszek z 1 porcją mikstury lub maści zrobionej z ziół ({{ ziola.txt }})
+26-45; naczynie (słoik, albo buteleczka) z 1 porcją jakiegoś komponentu (patrz alchemik-tabela komponentów)
+45-50; flakonik z wodą święconą
+51-65; buteleczka lub dzbanuszek z {{ 1d5 }} porcjami mikstury lub maści zrobionej z ziół ({{ ziola.txt }})
+66-75; bukłak lub dzban z dobrym winem
+76-80; bukłak lub dzban z bardzo silnym alkocholem
+81-85; dzban z oliwą
+86-95; flakonik lub dzbanuszek, z 1 porcją trucizny {{ typ_trucizny.txt }} {{ trucizny.txt }})
+96-99; buteleczka lub dzbanuszek z {{ 1d5 }} porcjami trucizny  {{ typ_trucizny.txt }} {{ trucizny.txt }}
+100; inna substancja (np. kwas)

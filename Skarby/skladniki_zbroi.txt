@@ -1,0 +1,4 @@
+1-30; hełmy ciężkie
+31-50; inne hełmy
+51-80; dodatki metalowe
+81-100; dodatki skórzane

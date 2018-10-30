@@ -1,0 +1,9 @@
+1-10; zbroje płytowe
+11-20; zbroje płaszczyznowe
+21-30; półzbroje
+31-40; pancerze i półpancerze
+41-60; kolczugi
+61-70; zbroje łuskowe
+71-80; zbroje kurtkowe
+81-85; skóry zwierzęce
+86-100; skóry smocze i inne łuskowe

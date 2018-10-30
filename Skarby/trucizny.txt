@@ -1,0 +1,11 @@
+01-10; zabijająca (Zab.) powoduje śmierć (na istoty powyżej 500 Żyw. działa z reguły jak silnie raniąca)
+11-20; osłabiająca (Osł.) powoduje stan analogiczny do spowolnienia, przyczym czasowo dwukrotnie społawia SF istoty (groźne, przy zbyt dużym obciążeniu), działa najczęściej 1-10 albo 10-1000 r.
+21-30; paraliżująca (Par.) powoduje paraliż ciała (!) na okres najczęściej 10-1000 r (na istoty powyżej 500 Żyw. działa z reguły jak osłabiająca, ale połowę krócej)
+31-40; letargiczna (Let.) powoduje w zapadnięcie w stan letargu najczęściej na okres 1-100 dni (na istoty powyżej 500 Żyw. działa z reguły jak nasenna)
+41-50; nasenna (Nas.) wywołuje sen na 1-100r.
+51-60; bólu (Bólu) istota jest pod wpływem bólu, co średnio o b. -50% obniża jej szansę TR, OB i UM na okres 1-100r.
+61-70; silnie raniąca (Sil.Ran.) zadaje najczęściej 10-1000 ran, ew. 1-100.
+71-80; raniąca (Ran.) zadaje najczęściej 10-100 ran, ew. 1-10
+81-95; efekt mieszany - rzuć dwa razy i z sumuj działania, przy czym postać jest w stanie przetrwać (odeprzeć rzutem odpornościowym na truciznę-6) tylko silniejsze działanie, a automatycznie podlega drugiemu.
+96-99; inna trucizna (o nie wymienionym tu działaniu)
+100; pseudotrucizna (objawy wskazują na działanie trucizny, a efekt jest wynikiem halucynacji)

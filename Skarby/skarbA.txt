@@ -1,0 +1,2 @@
+1-75; {{ monety.txt }}
+76-100; {{ drogocenne_kamienie.txt }}
