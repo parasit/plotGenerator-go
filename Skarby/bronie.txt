@@ -5,14 +5,14 @@
 6; HALABARDY
 7; HARPUNY
 8-9; KOPIE
-9; LANCE
-10; KUSZE CIĘŻKIE (1-50%, że jest to pęk 20 bełtów)
-11-15; KUSZE TYPOWE (1-50%, że jest to pęk 20 bełtów)
-16-18; ŁUKI REFLEKSYJNE (1-50%, że jest to pęk 10 strzał)
-19-21; ŁUKI PROSTE (1-50%, że jest to pęk 10 strzał)
-22-23; MACZUGI
-24-30; MIECZE CIĘŻKIE
-31-39; MIECZE LŻEJSZE
+10; LANCE
+11; KUSZE CIĘŻKIE (1-50%, że jest to pęk 20 bełtów)
+12-16; KUSZE TYPOWE (1-50%, że jest to pęk 20 bełtów)
+17-19; ŁUKI REFLEKSYJNE (1-50%, że jest to pęk 10 strzał)
+20-22; ŁUKI PROSTE (1-50%, że jest to pęk 10 strzał)
+23-24; MACZUGI
+25-31; MIECZE CIĘŻKIE
+32-39; MIECZE LŻEJSZE
 40-43; MŁOTY
 44-45; NOŻE
 46; OSKARDY

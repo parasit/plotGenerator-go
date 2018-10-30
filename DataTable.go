@@ -8,6 +8,7 @@ import (
 	"os"
 	"regexp"
 	"strconv"
+	"strings"
 )
 
 //DataItem basic item for random choice
@@ -97,14 +98,24 @@ func (dt *DataTable) ReadFromFile(filename string) (items int, err error) {
 
 // ParseInputLine check and parse input data
 func ParseInputLine(dataIn string) (DataItem, error) {
-
 	// simple line
 	// number:value
-	re := regexp.MustCompile(`^(?P<value>\d{1,}):(?P<name>\S{1,})$`)
+	re := regexp.MustCompile(`^(?P<value>\d{1,});(?P<name>.*)$`)
 	match := re.FindStringSubmatch(dataIn)
 	if len(match) > 0 {
-		value, _ := strconv.Atoi(match[1])
+		// value, _ := strconv.Atoi(match[1])
+		value := 1
 		return DataItem{match[2], value}, nil
 	}
+
+	re = regexp.MustCompile(`^(?P<startValue>\d{1,})-(?P<endValue>\d{1,});(?P<name>.*)$`)
+	match = re.FindStringSubmatch(dataIn)
+	if len(match) > 0 {
+		startValue, _ := strconv.Atoi(match[1])
+		endValue, _ := strconv.Atoi(match[2])
+		value := (endValue + 1) - startValue
+		return DataItem{strings.Trim(match[3], " "), value}, nil
+	}
+
 	return DataItem{}, errors.New("Cannot parse line")
 }
